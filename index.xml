@@ -1,1 +1,106 @@
-<?xml version="1.0" encoding="utf-8" standalone="yes"?><rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom" xmlns:content="http://purl.org/rss/1.0/modules/content/"><channel><title>Nitin Prajwal's Blog</title><link>https://blog.nitinr.live/</link><description>Recent content on Nitin Prajwal's Blog</description><generator>Hugo</generator><language>en</language><copyright>Copyright © 2024-2025 Nitin Prajwal. All Rights Reserved.</copyright><lastBuildDate>Tue, 06 Sep 2022 22:42:23 +0800</lastBuildDate><atom:link href="https://blog.nitinr.live/index.xml" rel="self" type="application/rss+xml"/><item><title>More Image Processing Methods</title><link>https://blog.nitinr.live/news/2022/07/more-image-processing-methods/</link><pubDate>Fri, 08 Jul 2022 11:34:47 +0800</pubDate><guid>https://blog.nitinr.live/news/2022/07/more-image-processing-methods/</guid><description>&lt;p>Since &lt;code>v1.0.0-alpha.1&lt;/code>, this theme supports much more image processing methods. Such as Crop, Fit and Fill images. You can also apply filters on an image.&lt;/p></description><enclosure url="https://blog.nitinr.live/news/2022/07/more-image-processing-methods/featured-sample.webp" length="498412" type="image/webp"/></item><item><title>README</title><link>https://blog.nitinr.live/blog/2022/04/readme/</link><pubDate>Sun, 17 Apr 2022 16:35:29 +0800</pubDate><guid>https://blog.nitinr.live/blog/2022/04/readme/</guid><description>&lt;p>Readme file&lt;/p></description></item></channel></rss>
+<?xml version="1.0" encoding="utf-8" standalone="yes"?><rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom" xmlns:content="http://purl.org/rss/1.0/modules/content/"><channel><title>Nitin Prajwal's Blog</title><link>https://blog.nitinr.live/</link><description>Recent content on Nitin Prajwal's Blog</description><generator>Hugo</generator><language>en</language><copyright>Copyright © 2024-2025 Nitin Prajwal. All Rights Reserved.</copyright><lastBuildDate>Tue, 06 Sep 2022 22:42:23 +0800</lastBuildDate><atom:link href="https://blog.nitinr.live/index.xml" rel="self" type="application/rss+xml"/><item><title>More Image Processing Methods</title><link>https://blog.nitinr.live/news/2022/07/more-image-processing-methods/</link><pubDate>Fri, 08 Jul 2022 11:34:47 +0800</pubDate><guid>https://blog.nitinr.live/news/2022/07/more-image-processing-methods/</guid><description>&lt;p>Since &lt;code>v1.0.0-alpha.1&lt;/code>, this theme supports much more image processing methods. Such as Crop, Fit and Fill images. You can also apply filters on an image.&lt;/p></description><enclosure url="https://blog.nitinr.live/news/2022/07/more-image-processing-methods/featured-sample.webp" length="498412" type="image/webp"/></item><item><title>README</title><link>https://blog.nitinr.live/blog/2022/04/readme/</link><pubDate>Sun, 17 Apr 2022 16:35:29 +0800</pubDate><guid>https://blog.nitinr.live/blog/2022/04/readme/</guid><description>&lt;p>Readme file&lt;/p></description></item><item><title/><link>https://blog.nitinr.live/blog/1/01/</link><pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate><guid>https://blog.nitinr.live/blog/1/01/</guid><description><![CDATA[<p><a href="/price/bitcoin" title="View price details">BTC$111,769.33+1.76%</a><a href="/price/ethereum" title="View price details">ETH$2,675.56+3.75%</a><a href="/price/tether" title="View price details">USDT$1.0001-0.03%</a><a href="/price/xrp" title="View price details">XRP$2.4387+0.96%</a><a href="/price/binance-coin" title="View price details">BNB$684.94+3.15%</a><a href="/price/solana" title="View price details">SOL$180.33+3.78%</a><a href="/price/usd-coin" title="View price details">USDC$0.9997-0.00%</a><a href="/price/dogecoin" title="View price details">DOGE$0.2426+3.84%</a><a href="/price/cardano" title="View price details">ADA$0.8081+4.95%</a><a href="/price/tron" title="View price details">TRX$0.2777+2.13%</a><a href="/price/sui" title="View price details">SUI$3.9277-0.78%</a><a href="/price/chainlink" title="View price details">LINK$16.90+4.47%</a><a href="/price/avax" title="View price details">AVAX$25.36+8.21%</a><a href="/price/hype" title="View price details">HYPE$32.47+13.44%</a><a href="/price/xlm" title="View price details">XLM$0.3024+3.02%</a><a href="/price/shiba-inu" title="View price details">SHIB$0.0₄1542+3.56%</a><a href="/price/hbar" title="View price details">HBAR$0.2053+2.25%</a><a href="/price/bitcoin-cash" title="View price details">BCH$436.70+5.75%</a><a href="/price/unus-sed-leo" title="View price details">LEO$8.8619+0.99%</a><a href="/price/toncoin" title="View price details">TON$3.1818+2.64%</a></p>
+<ul>
+<li><a href="/">News</a><br>
+Back to menu<br>
+News
+<ul>
+<li><a href="/markets">Markets</a></li>
+<li><a href="/business">Finance</a></li>
+<li><a href="/tech">Tech</a></li>
+<li><a href="/policy">Policy</a></li>
+<li><a href="/focus">Focus</a></li>
+</ul>
+</li>
+<li><a href="/price">Prices</a><br>
+Back to menu<br>
+Prices</li>
+<li><a href="https://data.coindesk.com/" target="_blank" rel="noopener noreferrer">Data<i class="fas fa-external-link-square-alt ms-1"></i></a><br>
+Back to menu<br>
+Data
+<ul>
+<li><a href="https://data.coindesk.com/trade-data" target="_blank" rel="noopener noreferrer">Trade Data<i class="fas fa-external-link-square-alt ms-1"></i></a></li>
+<li><a href="https://data.coindesk.com/derivatives" target="_blank" rel="noopener noreferrer">Derivatives<i class="fas fa-external-link-square-alt ms-1"></i></a></li>
+<li><a href="https://data.coindesk.com/order-book" target="_blank" rel="noopener noreferrer">Order Book Data<i class="fas fa-external-link-square-alt ms-1"></i></a></li>
+<li><a href="https://data.coindesk.com/on-chain-data" target="_blank" rel="noopener noreferrer">On-Chain Data<i class="fas fa-external-link-square-alt ms-1"></i></a></li>
+<li><a href="https://developers.coindesk.com/documentation" target="_blank" rel="noopener noreferrer">API<i class="fas fa-external-link-square-alt ms-1"></i></a></li>
+<li><a href="https://data.coindesk.com/reports" target="_blank" rel="noopener noreferrer">Research &amp; Insights<i class="fas fa-external-link-square-alt ms-1"></i></a></li>
+<li><a href="https://data.coindesk.com/data-catalogue" target="_blank" rel="noopener noreferrer">Data Catalogue<i class="fas fa-external-link-square-alt ms-1"></i></a></li>
+<li><a href="https://data.coindesk.com/ai-machine-learning" target="_blank" rel="noopener noreferrer">AI &amp; Machine Learning<i class="fas fa-external-link-square-alt ms-1"></i></a></li>
+</ul>
+</li>
+<li><a href="https://indices.coindesk.com/" target="_blank" rel="noopener noreferrer">Indices<i class="fas fa-external-link-square-alt ms-1"></i></a><br>
+Back to menu<br>
+Indices
+<ul>
+<li><a href="https://indices.coindesk.com/multi-asset-indices" target="_blank" rel="noopener noreferrer">Multi-Asset Indices<i class="fas fa-external-link-square-alt ms-1"></i></a></li>
+<li><a href="https://indices.coindesk.com/reference-rates" target="_blank" rel="noopener noreferrer">Reference Rates<i class="fas fa-external-link-square-alt ms-1"></i></a></li>
+<li><a href="https://indices.coindesk.com/strategies-and-services" target="_blank" rel="noopener noreferrer">Strategies and Services<i class="fas fa-external-link-square-alt ms-1"></i></a></li>
+<li><a href="https://developers.coindesk.com/documentation" target="_blank" rel="noopener noreferrer">API<i class="fas fa-external-link-square-alt ms-1"></i></a></li>
+<li><a href="https://indices.coindesk.com/insights-and-announcements" target="_blank" rel="noopener noreferrer">Insights &amp; Announcements<i class="fas fa-external-link-square-alt ms-1"></i></a></li>
+<li><a href="https://indices.coindesk.com/documentation-and-governance" target="_blank" rel="noopener noreferrer">Documentation &amp; Governance<i class="fas fa-external-link-square-alt ms-1"></i></a></li>
+</ul>
+</li>
+<li><a href="https://data.coindesk.com/reports" target="_blank" rel="noopener noreferrer">Research<i class="fas fa-external-link-square-alt ms-1"></i></a><br>
+Back to menu<br>
+Research</li>
+<li><a href="https://events.coindesk.com/" target="_blank" rel="noopener noreferrer">Events<i class="fas fa-external-link-square-alt ms-1"></i></a><br>
+Back to menu<br>
+Events
+<ul>
+<li><a href="https://consensus2025.coindesk.com/" target="_blank" rel="noopener noreferrer">Consensus 2025<i class="fas fa-external-link-square-alt ms-1"></i></a></li>
+<li><a href="https://www.coindesk.com/consensus-toronto-2025-coverage" target="_blank" rel="noopener noreferrer">Consensus 2025 Coverage<i class="fas fa-external-link-square-alt ms-1"></i></a></li>
+</ul>
+</li>
+<li><a href="/sponsored-content">Sponsored</a><br>
+Back to menu<br>
+Sponsored
+<ul>
+<li><a href="/sponsored-content">Thought Leadership</a></li>
+<li><a href="/press-release">Press Releases</a></li>
+<li><a href="/sponsored-content/hub/coinw">CoinW</a></li>
+<li><a href="/sponsored-content/hub/MEXC">MEXC</a></li>
+<li><a href="/sponsored-content/hub/Phemex">Phemex</a></li>
+<li><a href="/advertise">Advertise</a></li>
+</ul>
+</li>
+<li><a href="/videos">Videos</a><br>
+Back to menu<br>
+Videos
+<ul>
+<li><a href="/videos/coindesk-daily">CoinDesk Daily</a></li>
+<li><a href="/videos/shorts">Shorts</a></li>
+<li><a href="/videos/editors-picks">Editor&rsquo;s Picks</a></li>
+</ul>
+</li>
+<li><a href="/podcasts">Podcasts</a><br>
+Back to menu<br>
+Podcasts
+<ul>
+<li><a href="/podcasts/coindesk-podcast-network">CoinDesk Podcast Network</a></li>
+<li><a href="/podcasts/markets-daily">Markets Daily</a></li>
+<li><a href="/podcasts/generation-c">Gen C</a></li>
+<li><a href="/podcasts/unchained">Unchained with Laura Shin</a></li>
+<li><a href="/podcasts/coindesk-podcast-network">The Mining Pod</a></li>
+</ul>
+</li>
+<li><a href="/newsletters">Newsletters</a><br>
+Back to menu<br>
+Newsletters
+<ul>
+<li><a href="/newsletters/the-node">The Node</a></li>
+<li><a href="/newsletters/daybook-us">Crypto Daybook Americas</a></li>
+<li><a href="/newsletters/state-of-crypto">State of Crypto</a></li>
+<li><a href="/newsletters/crypto-long-short">Crypto Long &amp; Short</a></li>
+<li><a href="/newsletters/crypto-for-advisors">Crypto for Advisors</a></li>
+</ul>
+</li>
+<li><a href="https://events.coindesk.com/" target="_blank" rel="noopener noreferrer">Webinars &amp; Events<i class="fas fa-external-link-square-alt ms-1"></i></a><br>
+Back to menu<br>
+Webinars &amp; Events
+<ul>
+<li><a href="https://consensus2025.coindesk.com/" target="_blank" rel="noopener noreferrer">Consensus 2025<i class="fas fa-external-link-square-alt ms-1"></i></a></li>
+<li><a href="https://policy-regulation.coindesk.com/" target="_blank" rel="noopener noreferrer">Policy &amp; Regulation Conference<i class="fas fa-external-link-square-alt ms-1"></i></a></li>
+</ul>
+</li>
+</ul>
+<p>English</p>]]></description></item></channel></rss>
