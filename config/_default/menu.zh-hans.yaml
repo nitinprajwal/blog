@@ -1,0 +1,6 @@
+main:
+  - name: 文档
+    identifier: documentations
+    url: /docs/ # Replace with your own documentation link
+    params:
+      icon: '<i class="fas fa-fw fa-book"></i>'
