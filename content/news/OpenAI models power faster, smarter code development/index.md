@@ -1,12 +1,26 @@
 ---
-title: "OpenAI models power faster, smarter code development"
+# type: docs
+title: OpenAI models power faster, smarter code development
 date: 2025-05-23T15:27:11.607Z
+featured: true
 draft: false
+comment: true
+toc: true
+reward: true
+pinned: false
+carousel: true
+series:
+  - News
+categories:
+  - AI news
 tags:
   - AI
   - Blog
   - ML
   - LLM
+authors:
+  - nitinprajwal
+images: []
 ---
 
 # OpenAI Models Revolutionize Software Development for Speed and Intelligence
