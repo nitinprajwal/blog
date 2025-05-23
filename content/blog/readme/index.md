@@ -6,6 +6,6 @@ tags:
   - README
 ---
 
-Readme file
+Readme file of the nitinprajwal Blog
 
 <!--more-->

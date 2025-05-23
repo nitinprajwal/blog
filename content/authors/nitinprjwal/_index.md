@@ -5,7 +5,7 @@ social:
   github: nitinprajwal
   twitter: nitinprajwal
   email: nitinprajwal@gmail.com
-  website: https://nitinprajwal.com/
+  website: https://nitinr.live
   patreon: nitinprajwal
   paypal: nitinprajwal
 ---
