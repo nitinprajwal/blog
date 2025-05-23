@@ -1,5 +1,3 @@
-[BTC$111,769.33+1.76%](/price/bitcoin "View price details")[ETH$2,675.56+3.75%](/price/ethereum "View price details")[USDT$1.0001\-0.03%](/price/tether "View price details")[XRP$2.4387+0.96%](/price/xrp "View price details")[BNB$684.94+3.15%](/price/binance-coin "View price details")[SOL$180.33+3.78%](/price/solana "View price details")[USDC$0.9997\-0.00%](/price/usd-coin "View price details")[DOGE$0.2426+3.84%](/price/dogecoin "View price details")[ADA$0.8081+4.95%](/price/cardano "View price details")[TRX$0.2777+2.13%](/price/tron "View price details")[SUI$3.9277\-0.78%](/price/sui "View price details")[LINK$16.90+4.47%](/price/chainlink "View price details")[AVAX$25.36+8.21%](/price/avax "View price details")[HYPE$32.47+13.44%](/price/hype "View price details")[XLM$0.3024+3.02%](/price/xlm "View price details")[SHIB$0.0₄1542+3.56%](/price/shiba-inu "View price details")[HBAR$0.2053+2.25%](/price/hbar "View price details")[BCH$436.70+5.75%](/price/bitcoin-cash "View price details")[LEO$8.8619+0.99%](/price/unus-sed-leo "View price details")[TON$3.1818+2.64%](/price/toncoin "View price details")
-
 * [News](/)  
 Back to menu  
 News  
