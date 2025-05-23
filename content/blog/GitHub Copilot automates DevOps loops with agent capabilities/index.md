@@ -1,18 +1,7 @@
 ---
-# type: docs
-title: GitHub Copilot automates DevOps loops with agent capabilities
-date: 2025-05-23T05:57:27.454Z
-featured: true
+title: "github copilot"
+date: 2022-04-17T16:35:29+08:00
 draft: false
-comment: true
-toc: true
-reward: true
-pinned: false
-carousel: true
-series:
-  - News
-categories:
-  - AI news
 tags:
   - AI
   - Blog
