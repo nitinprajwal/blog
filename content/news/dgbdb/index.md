@@ -20,7 +20,7 @@ tags:
   - LLM
 authors:
   - nitinprajwal
-images: ["11.webp"]
+images: []
 ---
 
 # OpenAI Models Revolutionize Software Development for Speed and Intelligence
