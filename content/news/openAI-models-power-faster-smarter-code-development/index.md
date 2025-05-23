@@ -1,6 +1,6 @@
 ---
 # type: docs
-title: OpenAI models power faster, smarter code development
+title: OpenAI models power faster smarter code development
 date: 2025-05-23T15:27:11.607Z
 featured: true
 draft: false
