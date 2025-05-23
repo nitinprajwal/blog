@@ -6,7 +6,7 @@ tags:
   - AI
   - Blog
   - ML
-  LLM
+  - LLM
 ---
 
 # GitHub Copilot Gains Agent Capabilities to Automate DevOps Workflows
