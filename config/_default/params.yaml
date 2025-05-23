@@ -173,9 +173,9 @@ creativeCommons:
 # See https://giscus.app
 giscus:
   repo: "nitinprajwal/blog" # required.
-  repoId: "R_kgDOOuVBAA" # required. You need to get this from giscus.app after setting up the repo.
+  repoId: "R_kgDOOuniUg" # required. You need to get this from giscus.app after setting up the repo.
   category: "General" # required.
-  categoryId: "DIC_kwDOOuVBAM4Cqcya" # required. You need to get this from giscus.app
+  categoryId: "DIC_kwDOOuniUs4CqfM3" # required. You need to get this from giscus.app
   # theme: "dark" # Default to auto.
   # mapping: "title" # Default to pathname.
   # inputPosition: "bottom" # Default to top.
