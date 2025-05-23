@@ -1,18 +1,29 @@
 ---
-title: "GitHub Copilot automates DevOps loops with agent capabilities"
+# type: docs
+title: GitHub Copilot automates DevOps loops with agent capabilities
 date: 2025-05-23T05:57:27.454Z
+featured: true
 draft: false
+comment: true
+toc: true
+reward: true
+pinned: false
+carousel: true
+series:
+  - News
+categories:
+  - AI news
 tags:
   - AI
   - Blog
   - ML
   - LLM
+authors:
+  - nitinprajwal
 images: []
 ---
 
 # GitHub Copilot Gains Agent Capabilities to Automate DevOps Workflows
-
-![GitHub Copilot logo in the iconic Bond frame as the company announces during the Microsoft Build conference agent capabilities for the tool to automate DevOps loops for developers and help them with their coding workflows.](https://www.developer-tech.com/wp-content/uploads/2025/05/github-copilot-agentic-ai-artificial-intelligence-development-coding-agent-developers-agents-programming-microsoft-build-334x250.jpg)
 
 During the recent Microsoft Build conference, GitHub announced a significant expansion of its AI-powered coding assistant, Copilot. The platform is set to receive advanced agent capabilities aimed at automating key aspects of the DevOps cycle.
 
@@ -35,4 +46,3 @@ Alongside the debut of this new agent, GitHub also shared additional announcemen
 ## References
 
 -   [GitHub Copilot automates DevOps loops with agent capabilities (Direct link from source image/title)](https://www.developer-tech.com/news/github-copilot-automates-devops-loops-agent-capabilities/)
--   [Source Category Page (from original request URL)](https://www.developer-tech.com/categories/developer-approaches/developer-approaches-devops/)
