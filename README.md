@@ -1,6 +1,6 @@
 # Nitin Prajwal's Blog
 
-This is the repository for my personal blog, built with Hugo and the Bootstrap theme.
+This is the repository for my personal blog, built with nitinprajwal.
 
 ## About Me
 
